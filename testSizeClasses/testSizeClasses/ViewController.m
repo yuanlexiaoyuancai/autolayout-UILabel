@@ -1,7 +1,7 @@
 //
 //  ViewController.m
 //  testSizeClasses
-//
+//  testGitHub
 //  Created by leYuan on 15/4/8.
 //  Copyright (c) 2015年 leYuan. All rights reserved.
 //
