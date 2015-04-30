@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FF8379DA-336A-4E5D-BEE4-FAEEEE364052</string>
+	<key>IDESourceControlProjectName</key>
+	<string>testSizeClasses</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>650D04FDA4C045438A31D771B3CDF1B67F151587</key>
+		<string>https://github.com/yuanlexiaoyuancai/autolayout-UILabel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>testSizeClasses/testSizeClasses.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>650D04FDA4C045438A31D771B3CDF1B67F151587</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yuanlexiaoyuancai/autolayout-UILabel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>650D04FDA4C045438A31D771B3CDF1B67F151587</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>650D04FDA4C045438A31D771B3CDF1B67F151587</string>
+			<key>IDESourceControlWCCName</key>
+			<string>autolayout-UILabel</string>
+		</dict>
+	</array>
+</dict>
+</plist>
